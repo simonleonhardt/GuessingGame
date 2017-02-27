@@ -1,0 +1,41 @@
+body {
+    background-image:url('images/warm.jpg')
+}
+#mainBox {
+    background-color:darkgray;
+    width:300px;
+    height:150px;
+    margin:25px auto;
+    border:dashed;
+    border-color:gray;
+    padding:20px;
+}
+#guessBox {
+    margin:auto;
+    background-color:grey;
+    border:dashed;
+    border-color:darkgray;
+}
+::-webkit-input-placeholder {
+    color: black;
+}
+#guessBtn {
+    margin:auto;
+    background:gray;
+    border:dashed;
+    border-color:darkgray;
+}
+#textBox {
+    background-color:darkgrey;
+    width:300px;
+    height:150px;
+    padding:20px;
+    margin:auto;
+    border:dashed;
+    border-color:gray;
+    }
+#newGameBtn {
+    background-color:gray;
+    border:dashed;
+    border-color:darkgray;
+}
