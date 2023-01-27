@@ -1,3 +1,5 @@
+console.log("test")
+
 $('document').ready(function () {
     $('#guessBtn').click(makeGuess);
     $('#newGameBtn').click(startGame);
